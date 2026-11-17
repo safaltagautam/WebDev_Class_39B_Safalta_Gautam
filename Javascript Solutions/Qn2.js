@@ -1,3 +1,4 @@
+
 // Q2. Electricity Bill
 // Write a JavaScript program that takes the number of electricity units consumed and calculates the bill according to these rules:
 
